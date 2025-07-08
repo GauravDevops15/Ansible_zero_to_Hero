@@ -82,19 +82,18 @@ bash
 Copy
 Edit
 ansible-vault edit group_vars/all/vault.yml
+
 ✅ Testing & Linting
 Install Ansible Lint:
-
 bash
 Copy
 Edit
+
 pip install ansible-lint
 ansible-lint playbooks/
+
 🤝 Contributing
 Contributions are welcome! Please:
-
 Fork this repository
-
 Create a new branch
-
 Submit a pull request with clear documentation
