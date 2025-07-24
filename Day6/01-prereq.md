@@ -1,5 +1,9 @@
 # Setup EC2 Collection and Authentication
 
+## first Install Python3 and PIP as well
+```
+Sudo apt install python3
+```
 ## Install boto3
 
 ```
